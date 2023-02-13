@@ -1,0 +1,31 @@
+/* * { background: rgba(240, 204, 105, 0.904); }
+*/
+
+
+nav.menu-nav ul li.btn{
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav.menu-nav ul li.btn a{
+    text-decoration: none;
+}
+
+
+h1.headline{
+    font-size: 50px;
+    font-weight: 900;
+    padding-left: 450px;
+}
+
+
+p.bienvenue{
+    color: #123456;
+    background-color: #fa73fa;
+    font-weight: bold;
+}
+
+body{
+    background: url("https://img.fotocommunity.com/phare-ploumanach-4608e61b-d0be-41bb-a17b-4edf50ff0319.jpg?width=1000") no-repeat;
+    background-size: 100%;
+}
